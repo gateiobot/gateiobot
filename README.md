@@ -11,7 +11,7 @@
 #### **2. 其他交易所注册**
 如果你可以科学上网，不妨试试注册以下交易所(返佣20%)
 
-币安官方地址注册：[官网注册页面]([[https://](https://accounts.binance.com/zh-CN/register?ref=105842421)])，[免墙地址](https://)
+币安官方地址注册：[官网注册页面](https://accounts.binance.com/zh-CN/register?ref=105842421/)
 
 欧易官方地址注册：[官网注册页面](https://)，[免墙地址](https://)
 
@@ -39,7 +39,7 @@ API申请地址:    [官方文档](https://)
 
 #### **2.币安     官方文档**
 
-API申请地址:    [官方文档]([https://](https://binance-docs.github.io/apidocs/spot/en/#spot-account-trade))
+API申请地址:    [官方文档](https://binance-docs.github.io/apidocs/spot/en/#spot-account-trade)
 
 #### **3. 欧易     官方文档**
 

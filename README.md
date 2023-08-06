@@ -6,6 +6,7 @@
     
 ### **一、注册：**
 如果你尚未注册交易所，请选择点击官网链接进行注册，注册完成后，完成实名认证，你就可以正常进行交易了
+**[官网](https://www.gateex.cc/ref/UgBHUV8M/20?ref_type=102)**
 #### **1. gate注册**
 点击gate官方地址注册(返佣20%)：**[官网注册页面](https://www.gateex.cc/signup/UgBHUV8M/20?ref_type=103)**
 #### **2. 其他交易所注册**

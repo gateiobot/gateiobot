@@ -34,7 +34,7 @@ API申请地址:    [API管理页面](https://www.gateex.cc/zh/myaccount/apikeys
 
 #### **2.币安     API申请**
 
-API申请地址:    [API管理页面](https://www.binancezh.top/zh-CN/my/settings/api-management)
+API申请地址:    [API管理页面](https://www.binance.com/zh-CN/my/settings/api-management)
 
 #### **3. 欧易     API申请**
 
@@ -44,7 +44,7 @@ API申请地址:    [API管理页面](https://www.okx.com/account/my-api)
 没有比官方文档更有利于辅助您开发交易机器人了，阅读官方API文档,有助于更好的了解策略编写和运行原理
 #### **1. gate    官方文档**
 
-API申请地址:    [官方文档](https://www.gate.info/zh/developers)
+API申请地址:    [官方文档](https://www.gate.io/zh/developers)
 
 #### **2.币安     官方文档**
 

@@ -10,15 +10,19 @@
     
 ### **一、注册：**
 如果你尚未注册交易所，请选择点击官网链接进行注册，注册完成后，完成实名认证，你就可以正常进行交易了
-**[官网](https://www.gateex.cc/ref/UgBHUV8M/20?ref_type=102)**
+**[官网](https://www.gateex.cc/signup/UgBHUV8M/30?ref_type?=103)**
 #### **1. gate注册**
-点击gate官方地址注册(返佣20%)：**[官网注册页面](https://www.gateex.cc/signup/UgBHUV8M/20?ref_type=103)**
+点击gate官方地址注册(返佣20%)：**[官网注册页面](https://www.gateex.cc/signup/UgBHUV8M/30?ref_type?=103)**
 #### **2. 其他交易所注册**
 如果你可以科学上网，不妨试试注册以下交易所(返佣20%)
 
-币安官方地址注册：[官网注册页面](https://accounts.binance.com/zh-CN/register?ref=105842421/)
+币安官方地址注册：[官网注册页面](https://www.binance.com/register?ref=L9VRCUHB)
 
-欧易官方地址注册：[官网注册页面](https://www.lybg1688.com/join/4390294)
+欧易官方地址注册：[官网注册页面](https://www.okx.com/join/4390294)
+
+bitget官方地址注册：[官网注册页面](https://partner.bitget.com/bg/Y32LHU)
+
+不懂如何注册的朋友请加群交流[电报群](https://t.me/+F043vqd_V5c5MjFl)
 
 ### **二、API申请：**
 如果你想使用机器人进行交易，你需要进行API申请，获得api_key和api_sercet密钥对。

@@ -14,7 +14,7 @@
 #### **1. gate注册**
 点击gate官方地址注册(返佣60%)：**[官网注册页面](https://www.gateex.cc/signup/UgBHUV8M/30?ref_type?=103)**
 #### **2. 其他交易所注册**
-如果你可以科学上网，不妨试试注册以下交易所(返佣20%)
+如果你可以科学上网，不妨试试注册以下交易所(高额返佣)
 
 币安官方地址注册：[官网注册页面](https://www.binance.com/register?ref=L9VRCUHB)
 

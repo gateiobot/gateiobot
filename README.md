@@ -26,7 +26,7 @@
 **注意：密钥对一定要保存好，避免泄露，并定期修改！！！**
 #### **1. gate     API申请**
 
-API申请地址:    [API管理页面](https://www.gate.info/zh/myaccount/apikeys)
+API申请地址:    [API管理页面](https://www.gateex.cc/zh/myaccount/apikeys)
 
 #### **2.币安     API申请**
 

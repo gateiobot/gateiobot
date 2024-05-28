@@ -49,11 +49,11 @@ API申请地址:    [官方文档](https://www.gate.io/zh/developers)
 
 #### **2.币安     官方文档**
 
-    API申请地址:    [官方文档](https://binance-docs.github.io/apidocs/spot/en/#spot-account-trade)
+API申请地址:    [官方文档](https://binance-docs.github.io/apidocs/spot/en/#spot-account-trade)
 
 #### **3. 欧易     官方文档**
 
-    API申请地址:    [官方文档](https://www.okx.com/docs-v5/zh/#overview)
+API申请地址:    [官方文档](https://www.okx.com/docs-v5/zh/#overview)
 ## 数据分析
 
 ## 币种资讯

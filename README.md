@@ -45,15 +45,15 @@ qq群: 649390535
 - 没有比官方文档更有利于辅助您开发交易机器人了，阅读官方API文档,有助于更好的了解策略编写和运行原理
 #### **1. gate    官方文档**
 
-- API申请地址:    [官方文档](https://www.gate.io/zh/developers)
+- 文档地址:    [官方文档](https://www.gate.io/zh/developers)
 
 #### **2.币安     官方文档**
 
-- API申请地址:    [官方文档](https://binance-docs.github.io/apidocs/spot/en/#spot-account-trade)
+- 文档地址:    [官方文档](https://binance-docs.github.io/apidocs/spot/en/#spot-account-trade)
 
 #### **3. 欧易     官方文档**
 
-- API申请地址:    [官方文档](https://www.okx.com/docs-v5/zh/#overview)
+- 文档地址:    [官方文档](https://www.okx.com/docs-v5/zh/#overview)
 ## 数据分析
 
 ## 币种资讯

@@ -10,7 +10,7 @@ qq群: 649390535
 微信：daniugege6
 电报：https://t.me/benbenniu666
 电报群：https://t.me/daniuzhandui
-推特：https://twitter.com/daniugelaile** 
+推特：https://twitter.com/daniugelaile 
 
 ### **为什么选择芝麻开门交易所**
 * 1、老牌交易所，跑路风险小

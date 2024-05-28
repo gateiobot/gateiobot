@@ -12,27 +12,6 @@ qq群: 649390535
 电报群：https://t.me/daniuzhandui
 推特：https://twitter.com/daniugelaile 
 
-### **为什么选择芝麻开门交易所**
-* 1、老牌交易所，跑路风险小
-* 2、币种丰富，几乎涵盖了币圈所有热门币种
-* 3、内置聊天室功能，可以较快的了解行情资讯和币友进行交流
-* 4、无需翻墙，无需翻墙（中国大陆用户）
-    
-### **一、注册：**
-如果你尚未注册交易所，请选择点击官网链接进行注册，注册完成后，完成实名认证，你就可以正常进行交易了
-**[官网](https://www.gateex.cc/signup/UgBHUV8M/30?ref_type?=103)**
-#### **1. gate注册**
-点击gate官方地址注册(返佣60%)：**[官网注册页面](https://www.gateex.cc/signup/UgBHUV8M/30?ref_type?=103)**
-#### **2. 其他交易所注册**
-如果你可以科学上网，不妨试试注册以下交易所(高额返佣)
-
-币安官方地址注册：[官网注册页面](https://www.binance.com/register?ref=L9VRCUHB)
-
-欧易官方地址注册：[官网注册页面](https://www.okx.com/join/4390294)
-
-bitget官方地址注册：[官网注册页面](https://partner.bitget.com/bg/Y32LHU)
-
-不懂如何注册的朋友请加群交流[电报群](https://t.me/+F043vqd_V5c5MjFl)
 
 ### **二、API申请：**
 如果你想使用机器人进行交易，你需要进行API申请，获得api_key和api_sercet密钥对。
@@ -76,13 +55,14 @@ API申请地址:    [官方文档](https://www.okx.com/docs-v5/zh/#overview)
 
 1. **点击gate官方地址注册(返佣60%)：**[官网注册页面](https://www.gateex.cc/signup/UgBHUV8M/30?ref_type?=103)
 
+[注册教程]()       [api文档](https://www.gate.io/zh/developers)
 2. **币安官方地址注册：[官网注册页面](https://www.binance.com/register?ref=L9VRCUHB)
 
 3. **欧易官方地址注册：[官网注册页面](https://www.okx.com/join/4390294)
 
 4. **bitget官方地址注册：[官网注册页面](https://partner.bitget.com/bg/Y32LHU)
 
-5. **不懂如何注册的朋友请加群交流[电报群](https://t.me/+F043vqd_V5c5MjFl)
+5. **不懂如何注册的朋友请加群交流[电报群](https://t.me/daniuzhandui)
 
 - 这些平台各自提供不同的服务和特点，从支持的币种、用户界面、交易费用到安全性等方面都有所不同，适合不同需求的用户选择。请注意，投资加密货币存在风险，包括市场波动和平台风险，投资前应充分了解并评估。
 

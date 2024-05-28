@@ -16,10 +16,10 @@ qq群: 649390535
 ## 中心化大所
 - 欧易、币安、芝麻这三个是中国大陆用户必备的，建议都注册一下，他们都会对新用户进行奖励，一般会送一些币，可以撸一波羊毛。
 
-1. **gate官方地址注册(返佣60%)：**[官网注册页面](https://www.gateex.cc/signup/UgBHUV8M/30?ref_type?=103)  [注册教程]()
-2. **币安官方地址注册(返佣40%)：**[官网注册页面](https://www.binance.com/register?ref=L9VRCUHB)   [注册教程]()
-3. **欧易官方地址注册(返佣50%)：**[官网注册页面](https://www.okx.com/join/4390294) [注册教程]()
-4. **bitget官方地址注册(返佣60%)：**[官网注册页面](https://partner.bitget.com/bg/Y32LHU)  [注册教程]() 
+1. **gate官方地址注册(返佣60%)：**[官网注册页面](https://www.gateex.cc/signup/UgBHUV8M/30?ref_type?=103)  [注册教程](https://www.yuchinniu.com)
+2. **币安官方地址注册(返佣40%)：**[官网注册页面](https://www.binance.com/register?ref=L9VRCUHB)   [注册教程](https://www.yuchinniu.com)
+3. **欧易官方地址注册(返佣50%)：**[官网注册页面](https://www.okx.com/join/4390294) [注册教程](https://www.yuchinniu.com)
+4. **bitget官方地址注册(返佣60%)：**[官网注册页面](https://partner.bitget.com/bg/Y32LHU)  [注册教程](https://www.yuchinniu.com) 
 
 不懂如何注册的朋友请加群交流[电报群](https://t.me/daniuzhandui) 
 
